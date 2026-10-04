@@ -15,4 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=alemu2502&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be34bbfe-089c-4965-9063-debf8eb5d5a2" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
