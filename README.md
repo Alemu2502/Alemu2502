@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dd78a970-b3b4-49d9-8112-73c9d8daf4f0" /># 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on developing scalable MERN and Next.js full-stack web applications and micro-task platforms.<br>👯 I’m looking to collaborate on open-source JavaScript/TypeScript frameworks, secure REST APIs, and e-commerce database engines.<br>🤝 I’m looking for help with cloud DevOps pipelines, low-level architectural optimizations, and scalable system engineering.<br>🌱 I’m currently learning advanced Go backend development and low-level polyglot programming execution strategies.<br>💬 Ask me about React, Next.js, Node.js security, JWT auth layers, MongoDB/PostgreSQL architectures, and Bash scripting.<br>• ⚡ Fun fact: I optimize NoSQL database guardrails to completely eliminate injection risks before code hits production.<br>
 
 
@@ -15,4 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=alemu2502&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/be34bbfe-089c-4965-9063-debf8eb5d5a2" />
