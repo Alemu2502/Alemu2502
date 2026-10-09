@@ -4,8 +4,7 @@
 🤝 I’m open to junior full-stack and frontend roles where I can build real features with a team.
 🌱 I’m currently learning backend development with Go.
 💬 Ask me about React, Next.js, Node.js security, JWT authentication, MongoDB/PostgreSQL, and Bash scripting.
-- ⚡ Fun fact: I validate and sanitize inputs on every API route to reduce injection risks before code reaches production.
-<br>
+- ⚡ Fun fact: I validate and sanitize inputs on every API route to reduce injection risks before code reaches production.<br>
 
 
 # 💻 Tech Stack:
