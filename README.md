@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I build full-stack web applications with React, Next.js, Node.js, and MongoDB.
-👯 I’m looking to collaborate on open-source JavaScript/TypeScript projects and secure REST APIs.
-🤝 I’m open to junior full-stack and frontend roles where I can build real features with a team.
-🌱 I’m currently learning backend development with Go.
-💬 Ask me about React, Next.js, Node.js security, JWT authentication, MongoDB/PostgreSQL, and Bash scripting.
+🔭 I build full-stack web applications with React, Next.js, Node.js, and MongoDB.<br>
+👯 I’m looking to collaborate on open-source JavaScript/TypeScript projects and secure REST APIs.<br>
+🤝 I’m open to junior full-stack and frontend roles where I can build real features with a team.<br>
+🌱 I’m currently learning backend development with Go.<br>
+💬 Ask me about React, Next.js, Node.js security, JWT authentication, MongoDB/PostgreSQL, and Bash scripting.<br>
 - ⚡ Fun fact: I validate and sanitize inputs on every API route to reduce injection risks before code reaches production.<br>
 
 
