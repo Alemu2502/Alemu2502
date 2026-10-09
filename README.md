@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on developing scalable MERN and Next.js full-stack web applications and micro-task platforms.<br>👯 I’m looking to collaborate on open-source JavaScript/TypeScript frameworks, secure REST APIs, and e-commerce database engines.<br>🤝 I’m looking for help with cloud DevOps pipelines, low-level architectural optimizations, and scalable system engineering.<br>🌱 I’m currently learning advanced Go backend development and low-level polyglot programming execution strategies.<br>💬 Ask me about React, Next.js, Node.js security, JWT auth layers, MongoDB/PostgreSQL architectures, and Bash scripting.<br>• ⚡ Fun fact: I optimize NoSQL database guardrails to completely eliminate injection risks before code hits production.<br>
+🔭 I build full-stack web applications with React, Next.js, Node.js, and MongoDB. My latest project is TaskHub, a micro-task platform I've deployed: https://usetaskhub.netlify.app
+👯 I’m looking to collaborate on open-source JavaScript/TypeScript projects and secure REST APIs.
+🤝 I’m open to junior full-stack and frontend roles where I can build real features with a team.
+🌱 I’m currently learning backend development with Go.
+💬 Ask me about React, Next.js, Node.js security, JWT authentication, MongoDB/PostgreSQL, and Bash scripting.
+- ⚡ Fun fact: I validate and sanitize inputs on every API route to reduce injection risks before code reaches production.
+<br>
 
 
 # 💻 Tech Stack:
