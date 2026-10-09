@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I build full-stack web applications with React, Next.js, Node.js, and MongoDB. My latest project is TaskHub, a micro-task platform I've deployed: https://usetaskhub.netlify.app
+🔭 I build full-stack web applications with React, Next.js, Node.js, and MongoDB.
 👯 I’m looking to collaborate on open-source JavaScript/TypeScript projects and secure REST APIs.
 🤝 I’m open to junior full-stack and frontend roles where I can build real features with a team.
 🌱 I’m currently learning backend development with Go.
